@@ -1,0 +1,5 @@
+Options -Indexes
+AuthType Basic
+AuthName "Admin Area"
+AuthUserFile /path/to/.htpasswd
+Require valid-user
