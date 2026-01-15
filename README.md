@@ -2,9 +2,6 @@
 🌟 Overview
 A professional, responsive portfolio website showcasing my skills, projects, and experience as a web developer. Built with PHP, HTML, CSS, and JavaScript, featuring a functional contact form and clean, modern design.
 
-https://screenshots/1.png
-
-
 
 GitHub Repository: github.com/knancy24/Taanach.dev
 
@@ -35,7 +32,29 @@ Technical Features
 
 🖼️ Screenshots
 Homepage
-https:// github.com/knancy24/Taanach.Dev/tree/main/screenshots/1.png
+<div style="display: flex;flex-direction: column; grid-gap: 10px;">
+     <div style="display: flex; grid-gap: 10px;">
+        <img src="screenshots/18.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
+        <img src="screenshots/19.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>  <img src="screenshots/14.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
+    </div>
+
+    </div>
+</div>
+<br>
+
+<div style="display: flex; flex-direction: column; gap: 15px; margin: 20px 0;">
+    <div style="display: flex; gap: 15px; justify-content: center;">
+        <img src="screenshots/desktop-home.png" alt="Portfolio Homepage - Desktop View" width="48%" style="border: 3px solid #3498db; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"/>
+        <img src="screenshots/desktop-projects.png" alt="Projects Section - Desktop View" width="48%" style="border: 3px solid #3498db; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"/>
+    </div>
+    <div style="display: flex; gap: 15px; justify-content: center;">
+        <img src="screenshots/desktop-skills.png" alt="Skills & Technologies - Desktop View" width="48%" style="border: 3px solid #3498db; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"/>
+        <img src="screenshots/desktop-contact.png" alt="Contact Form - Desktop View" width="48%" style="border: 3px solid #3498db; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"/>
+    </div>
+</div>
+<br>
+
+## Mobile Responsive View
 
 Main landing page with hero section and introduction
 
