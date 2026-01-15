@@ -2,7 +2,7 @@
 🌟 Overview
 A professional, responsive portfolio website showcasing my skills, projects, and experience as a web developer. Built with PHP, HTML, CSS, and JavaScript, featuring a functional contact form and clean, modern design.
 
-https://screenshot.png
+https:// github.com/knancy24/Taanach.Dev/tree/main/screenshots/1.png
 
 
 
@@ -35,15 +35,18 @@ Technical Features
 
 🖼️ Screenshots
 Homepage
-https://screenshots/1.png
+https:// github.com/knancy24/Taanach.Dev/tree/main/screenshots/1.png
+
 Main landing page with hero section and introduction
 
 Projects Section
-https://screenshots/6.png
+https:// github.com/knancy24/Taanach.Dev/tree/main/screenshots/6.png
+
 Interactive project cards with technology tags
 
 Contact Form
-https://screenshots/10.png
+https:// github.com/knancy24/Taanach.Dev/tree/main/screenshots/10.png
+
 Functional contact form with validation
 Note: The contact form validates message length (minimum 10 characters) and includes proper error handling
 
