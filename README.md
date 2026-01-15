@@ -2,7 +2,7 @@
 🌟 Overview
 A professional, responsive portfolio website showcasing my skills, projects, and experience as a web developer. Built with PHP, HTML, CSS, and JavaScript, featuring a functional contact form and clean, modern design.
 
-https://Taanach.D/screenshots/1.png
+https://screenshots/1.png
 
 
 
