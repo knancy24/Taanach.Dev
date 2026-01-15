@@ -43,24 +43,13 @@ Homepage
     </div>
     <div style="display: flex; gap: 15px; justify-content: center;">
         <img src="screenshots/9.png" alt="Skills & Technologies - Desktop View" width="48%" style="border: 3px solid #3498db; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"/>
-        <img src="screenshots/9.png" alt="Skills & Technologies - Desktop View" width="48%" style="border: 3px solid #3498db; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"/>
+        <img src="screenshots/7.png" alt="Skills & Technologies - Desktop View" width="48%" style="border: 3px solid #3498db; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"/>
     </div>
      <div style="display: flex; gap: 15px; justify-content: center;">
         <img src="screenshots/4.png" alt="AboutMe - Desktop View" width="48%" style="border: 3px solid #3498db; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"/>
      </div>
 <br>
 
-## Mobile Responsive View
-
-Main landing page with hero section and introduction
-
-Projects Section
-https:// github.com/knancy24/Taanach.Dev/tree/main/screenshots/6.png
-
-Interactive project cards with technology tags
-
-Contact Form
-https:// github.com/knancy24/Taanach.Dev/tree/main/screenshots/10.png
 
 Functional contact form with validation
 Note: The contact form validates message length (minimum 10 characters) and includes proper error handling
