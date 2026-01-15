@@ -1,0 +1,23 @@
+
+# Turn on URL rewriting
+RewriteEngine On
+
+# Set the base directory (adjust this to your folder name)
+RewriteBase /taanach.dev/
+
+# Protect sensitive files
+<FilesMatch "\.(htaccess|htpasswd|ini|log|sh|inc|bak|sql)$">
+    Order Allow,Deny
+    Deny from all
+</FilesMatch>
+
+# Prevent directory listing
+Options -Indexes
+
+# Default index file
+DirectoryIndex index.php
+
+# Redirect all requests to index.php if file doesn't exist
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php?url=$1 [QSA,L]
